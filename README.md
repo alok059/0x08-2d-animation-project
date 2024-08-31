@@ -1,5 +1,5 @@
 # Computer-graphics
-## Project
+## [Link](https://alok059.github.io/0x08-2d-animation-project/)
 ### Alok Shree Koirala - 102103157 | 102103178 : Shree Krishan Singla
 
 ## Creating an animation of a fan which turns on and speeds when user gives input.
